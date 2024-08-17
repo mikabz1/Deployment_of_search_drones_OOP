@@ -52,13 +52,22 @@ first line - 4 ints for forest size configuration.
 second line - 2 real num for the target point cordinates.
 third line - number of simulation iterations.
 
+![image](https://github.com/user-attachments/assets/e0a4928e-77a2-43e2-a711-9d88aaf66c50)
+
+
 *init file:*
 first line - number of drones to be created.
 other lines - 4 numbers for drone location and speed.
+
+![image](https://github.com/user-attachments/assets/4be9c7bc-a7ed-42d1-ac9c-5f1cdceea5c9)
+
 
 *output file:*
 first line - number of iteration.
 other lines - type of drone(char) and location.
 
+![image](https://github.com/user-attachments/assets/74e9a131-5a2d-4467-86a6-480cae041f82)
 
 
+
+***The names of the files passed as arguments to the program**
