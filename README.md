@@ -1,6 +1,23 @@
-# Deployment_of_search_drones_OOP
+# project summary:
 
 This project is a work for a bachelor's degree in computer science in the **object-oriented** CPP course.
+
+**The project comes to test and create skills in the following subjects:**
+
+*-Object-oriented design including multiple classes and multiple inheritance.*
+
+*-data structure.*
+
+*-Programming in CPP language.*
+
+*-recursions.*
+
+*-problem solving.*
+
+*-Reading, writing and checking files.*
+
+*-debugging.*
+
 The project is an object-oriented simulation of a bunch of drones of different types, each of which has a slightly different behavior.
 The aim of the drones is to reach a target point within a "forest" and thus end the program's run.
 
